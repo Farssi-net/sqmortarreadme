@@ -1,7 +1,7 @@
 # squadmortar
 This is the repository for the website 
 [squadmortar.xyz](squadmortar.xyz), a mortar/rocket calculator for the game 
-[Squad](https://joinsquad.com/). After Squad patch 6.0 the maker of this software took the repository and the forementioned site down. However the project had been saved before the takedown by some squad players of community [Farssi.net](https://farssi.net). It is by far the best calculator there is for squad. All credits for the orginal author of the calculator. Currently the calculator is being hosted at [sqmortar.farssi.net](https://sqmortar.farssi.net)
+[Squad](https://joinsquad.com/). After Squad patch 6.0 the maker of this software took the repository and the forementioned site down. However the project had been saved before the takedown by some squad players of community [Farssi.net](https://farssi.net). It is by far the best calculator there is for squad. All credits for the orginal author of the calculator. Currently the calculator is being hosted at [sqmortar.farssi.net](https://sqmortar.farssi.net) For the respect of orginal author taking the sourcecode down from public reach we have decided not to release it. Decision of releasing source might change incase of the need of more agressive maintaining.
 
 ### Community Guides
 - [Written guide](https://www.reddit.com/r/joinsquad/comments/q1e2la/squadmortarxyz_a_mortar_calculator_guide/) by /u/MENA_Conflict
